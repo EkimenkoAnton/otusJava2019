@@ -9,6 +9,6 @@ public class HelloOtus {
     }
 
     public static void print(Collection collection) {
-        System.out.println( String.join(" ", collection));
+        System.out.println( String.join(" ", collection) );
     }
 }
